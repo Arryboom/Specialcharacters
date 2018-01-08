@@ -15,5 +15,5 @@ tencent  МSN  windоws  Ghоst  Ыack hаck   hаcker   crаcker DDоS
 
 **Seems no difference right?**  
 But,when you write them down to(or copy) a file like txt,using hex editor you can found the different between them:  
-![using Hex editor to check the difference](http://www.github.com/arryboom/specialcharacters/test1.png)
+![using Hex editor to check the difference](https://github.com/Arryboom/specialcharacters/blob/master/test1.png)
 > The first character 'А' was cyrillic,second and third one are english 'A'
