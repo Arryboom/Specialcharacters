@@ -14,9 +14,9 @@ gооgle bаidu sоhu yahоо dоs  rооtkit  wеbshell  shеll  sinа  micros�
 
 tencent  МSN  windоws  Ghоst  Ыack hаck   hаcker   crаcker DDоS
 
-**Seems no differences right?**  
+**What's the real characters behind these words?**  
 
-But,when you write them down to(or copy) a file like txt file,using hex editor you can found the difference between them:  
+when you write them down to(or copy) a file like txt file,using hex editor you can found the difference between them:  
 ![using Hex editor to check the difference](https://github.com/Arryboom/specialcharacters/blob/master/test1.png)
 
 > The first character 'А' was cyrillic,second and third one are english 'A'
